@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background: url("http://ww4.sinaimg.cn/large/005CynDtgw1epoqlj5fk2j30hs0hs75z.jpg");
+  background-size: cover;
+  color: black;
+  font-family: Bookman Old Style;
+}
+hr {
+  width:200px;
+}
+p {
+  font-size: 22px;
+}
+#slogan {
+	font-size: 16px;
+}
+
+#kaja {
+	size: 16px
+}
