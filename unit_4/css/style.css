@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Nixie+One);
-
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
   text-align: center;
   color: #2f4f4f;
@@ -36,7 +36,9 @@ hr {
 
 
 nav a {
-	margin-right: 10px;
+	float:left;
+	padding: .5em;
+	width:25%;
 }
 ul {
     width: 30%;
@@ -49,7 +51,9 @@ figure {
 
 header {
 	  background: url("http://ww4.sinaimg.cn/large/005CynDtgw1epoqlj5fk2j30hs0hs75z.jpg");
-  background-size: cover;
+	  background-size: cover;
+	  height: 80vh;
+	  padding: 10em 0 0;
 }
 
 a:link{
